@@ -45,6 +45,6 @@ This project aims to collect and analyze customer reviews for three mobile banki
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/mobile-banking-reviews.git
+git clone https://github.com/arsema-mz/mobile-banking-reviews.git
 cd mobile-banking-reviews
 pip install -r requirements.txt 
